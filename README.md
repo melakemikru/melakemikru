@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melakemikru
-- 👀 I’m interested in flutter projects
-- 🌱 I’m currently learning software enginnering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in flutter and we front-end projects
+- 🌱 I’m currently learning software enginnering at Bahir dar institute of Technology
+- 💞️ I’m can work on any project with collabortion with anyone who is intersted
 - 📫 you can contact me in melakemikru1999@gmail.com
 
 <!---
